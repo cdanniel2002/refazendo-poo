@@ -1,0 +1,2 @@
+(B) em todas as três classes, sendo possível, nesse caso, que a função getDesconto da
+classe Cliente seja abstrata.

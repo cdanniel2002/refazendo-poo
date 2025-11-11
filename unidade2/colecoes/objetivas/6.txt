@@ -1,0 +1,3 @@
+(B) O método público remove( ) da inteface List em Java pode ser utilizado para remover elementos de uma lista. Esse é um método que aceita o índice do objeto a
+ser removido. Por exemplo, supondo que uma lista de nome minhaLista foi inicializada corretamente com cinco elementos, uma forma de remover o primeiro elemento
+desta lista é utilizar o comando minhaLista.remove(1);

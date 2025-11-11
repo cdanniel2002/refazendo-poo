@@ -1,0 +1,8 @@
+(B)
+int q = 0;
+Iterator i = listaDePessoas.iterator();
+TecnicoDeTI t;
+while (i.hasNext()) {
+t = (Pessoa) i.next();
+if (t instanceof TecnicoDeTI)
+q++; }

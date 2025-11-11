@@ -1,0 +1,1 @@
+(A) Um bloco opcional que contém o código a ser executado sempre, independentemente de ocorrer ou não uma exceção.

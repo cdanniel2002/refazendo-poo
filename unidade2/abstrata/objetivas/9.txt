@@ -1,0 +1,1 @@
+(B) um erro de compilação, indicando que, no contexto de x, não existe metodoExotico.

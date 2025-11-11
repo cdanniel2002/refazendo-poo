@@ -1,0 +1,2 @@
+(D) Polimorfismo, pois o método é definido na classe base, mas o comportamento é
+determinado pelas subclasses.

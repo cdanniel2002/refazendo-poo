@@ -1,0 +1,2 @@
+(A) A remoção de elementos dentro de um laço for deve ser feita usando os métodos
+next() e remove() do iterador

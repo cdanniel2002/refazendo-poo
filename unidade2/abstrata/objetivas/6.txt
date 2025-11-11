@@ -1,0 +1,2 @@
+(B) há mais de um método com mesmo nome, recebendo parâmetros de tipos ou em
+quantidades diferentes, em uma classe.

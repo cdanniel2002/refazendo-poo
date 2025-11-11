@@ -1,0 +1,1 @@
+(B) Esta classe não poderá ser estendida por outras classes.

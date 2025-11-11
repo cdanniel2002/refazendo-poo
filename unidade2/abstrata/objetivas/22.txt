@@ -1,0 +1,2 @@
+(C) Marcar o método “ExecutarHabilidade” como abstrata na classe base “Personagem”
+e fornecendo implementações específicas nas classes derivadas.

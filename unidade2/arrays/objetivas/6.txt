@@ -1,0 +1,2 @@
+(D) i < 5 na quarta linha pode ser substituído por i < dados.length sem afetar a lógica
+de execução.
