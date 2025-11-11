@@ -1,0 +1,5 @@
+Não podemos ter construtores abstract porque os dois conceitos são opostos:
+
+O trabalho de um construtor é criar e inicializar um objeto daquela classe.
+
+A palavra-chave abstract significa que a classe não pode ser instanciada (ou que o método não tem implementação).
