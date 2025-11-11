@@ -1,4 +1,6 @@
-public class SomaCubos16{
+package Somadoscubos;
+
+public class SomaCubos16 {
     public static void main(String[] args){
         for(int n = 100; n < 999; n++){
             int centena = n / 100;

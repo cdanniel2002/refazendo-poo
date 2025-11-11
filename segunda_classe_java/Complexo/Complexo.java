@@ -1,8 +1,8 @@
 package segunda_classe_java.Complexo;
 
-public class Complexo {
+public class Complexo{
     double real;
-    int imaginario;
+    double imaginario;
 
     public Complexo(double real, int imaginario){
         this.real = real;
@@ -21,12 +21,7 @@ public class Complexo {
 
     @Override
     public String toString(){
-        if(real == 0 && imaginario == 0){
-            return "0";
-        } else if(real !=0 && imaginario == 0){
-            return "" + real;
-        } else{
-            return real + " + " + imaginario + "i";
+        return real + " + " + imaginario + "i";
         }
-    }
 }
+

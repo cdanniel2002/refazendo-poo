@@ -1,4 +1,6 @@
-public class MegaSena13{
+package Megasena;
+
+public class MegaSena13 {
     public static void main(String[] args){
         for(int i = 1; i <= 60; i++){
             System.out.printf("%02d ", i);
@@ -8,3 +10,4 @@ public class MegaSena13{
         }
     }
 }
+

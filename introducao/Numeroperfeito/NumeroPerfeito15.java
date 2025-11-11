@@ -1,4 +1,6 @@
-public class NumeroPerfeito15{
+package Numeroperfeito;
+
+public class NumeroPerfeito15 {
     public static void main(String[] args){
         int perfeitoEncontrado = 0;
         long n = 2;
@@ -20,3 +22,4 @@ public class NumeroPerfeito15{
         }
     }
 }
+    
